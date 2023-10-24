@@ -1,0 +1,7 @@
+{
+  "name": "test-foreigner-package",
+  "version": "1.0.0",
+  "description": "A test GitHub package with HTML code",
+  "repository": "https://github.com/ForeignerGithub/TestPackage",
+  "main": "simple.html"
+}
